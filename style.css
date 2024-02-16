@@ -11,7 +11,9 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
-
+section{
+    display: inline-block;
+}
 #botoes a{
     display: block;
     width: 70px;
@@ -58,4 +60,7 @@ main{
     border: 20px;
     width: 270px;
     height: 480px;
+}
+.imagens{
+    height: 100vh;
 }
