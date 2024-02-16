@@ -1,0 +1,32 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+body{
+    background-color: beige;
+}
+img{
+    width: 100vw;
+}
+a{
+    display: block;
+    background-color: slategray;
+    width: 100vw;
+    text-align: center;
+    text-decoration: none;
+    color:beige;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a:hover{
+    color: red;
+    font-size: 1.2em;
+    transition-duration: 0.3s;
+    background-color: rgb(131, 135, 139);
+}
