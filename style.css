@@ -52,4 +52,6 @@ a > img{
     border: 20px;
     width: 276px;
     height: 495px;
+    min-width: 15vw;
+    min-height: 20vh;
 }
